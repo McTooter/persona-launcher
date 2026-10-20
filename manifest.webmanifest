@@ -1,0 +1,13 @@
+{
+  "name": "Persona Launcher",
+  "short_name": "Persona",
+  "description": "Persona-styled game launcher with Viola AI — iOS optimized",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08080c",
+  "theme_color": "#08080c",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

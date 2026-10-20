@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="112" fill="#0a0a0e"/>
+<path d="M256 40 L272 180 L410 120 L300 220 L470 256 L300 292 L410 392 L272 332 L256 472 L240 332 L102 392 L212 292 L42 256 L212 220 L102 120 L240 180 Z" fill="#ff2d3f"/>
+<text x="256" y="290" font-family="Arial Black, sans-serif" font-size="120" font-weight="900" fill="white" text-anchor="middle" transform="rotate(-6 256 256)">P</text>
+</svg>
